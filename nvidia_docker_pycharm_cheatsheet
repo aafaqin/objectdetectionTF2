@@ -1,0 +1,17 @@
+This file has few important resources to troubleshoot and get started with the Nvidia docker containers and using Pycharm IDE to do python programming in the Tensorflow 2.0 official docker container
+
+Create TF 2.0 object detection api enabled docker
+https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2.md#installation
+
+jetbrains good for a simple setup not for GPU and nvidia containers
+https://www.jetbrains.com/help/pycharm/docker.html
+
+pycharm settings
+https://youtrack.jetbrains.com/issue/PY-26429#focus=Comments-27-4026288.0-0
+https://intellij-support.jetbrains.com/hc/en-us/community/posts/360009364940-Debugging-using-docker-interpreter-gpu-supported
+
+Jupyter notebook with GPU enabled docker
+https://medium.com/@christoph.schranz/set-up-your-own-gpu-based-jupyterlab-e0d45fcacf43
+
+Object detection API docs
+https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2.md#installation
